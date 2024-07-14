@@ -1,0 +1,24 @@
+pathfinding-visualizer/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Grid.js
+│   │   ├── Node.js
+│   │   └── Controls.js
+│   ├── algorithms/
+│   │   ├── astar.js
+│   │   ├── dijkstra.js
+│   │   ├── bfs.js
+│   │   └── dfs.js
+│   ├── App.js
+│   ├── index.js
+│   └── styles.css
+├── server/
+│   ├── index.js
+│   └── algorithms/
+│       ├── astar.js
+│       ├── dijkstra.js
+│       ├── bfs.js
+│       └── dfs.js
+├── package.json
+└── README.md
